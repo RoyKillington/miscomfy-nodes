@@ -11,8 +11,9 @@ A repo of custom [ComfyUI](https://github.com/comfyanonymous/ComfyUI) nodes made
 
 ### TODO
 1. Add batch>1 to *Venice AI Upscaler*
-2. Add installation instructions sans ComfyManager
-3. Add use instructions for *Venice AI Upscaler*
+2. Start work on next node
+3. Add installation instructions sans ComfyManager
+4. Add use instructions for *Venice AI Upscaler*
 
 ## Contributing
 At the moment, not looking for extra contributors, but fork and send a push request if you are interested/have a suggestion
