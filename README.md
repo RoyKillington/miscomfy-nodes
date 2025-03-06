@@ -1,6 +1,10 @@
 # Miscomfy Nodes
 
 A repo of custom [ComfyUI](https://github.com/comfyanonymous/ComfyUI) nodes made by me to do many different things.
+## Installation
+1. **ComfyManager**: this node repo is not currently listed in the the ComfyManager registry. Manual installation is required at this time and is compatble with use of ComfyManager
+2. **Manual**: clone or download the repo.  move out copy it into the *custom_nodes* directory of your Comfyui install. Restart the server if it's running.
+
 ## Nodes Included
 - **Venice AI Upscaler**: takes, transforms, and sends your decoded VAE outputs to [Venice.AI's](https://venice.ai) [image upscaler](https://docs.venice.ai/api-reference/endpoint/image/upscale) before turning the response back into tensors for further manipulation. Can take batches of tensors and outputs the same. No rate limit safeguards implemented yet.
 
